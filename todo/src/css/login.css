@@ -1,0 +1,17 @@
+input {
+    display: block;
+}
+p {
+    display: block;
+}
+
+.center-position { 
+    height: 100vh;
+    background-color: rgb(231, 231, 240);
+    display: grid;
+    place-items: center;
+}
+
+.link {
+    text-decoration: underline;
+}
